@@ -1,0 +1,9 @@
+.myimg{
+    background-image: url(../my-pic.jpg);
+    height: 80vh;
+    width: 30vw;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
